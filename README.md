@@ -17,7 +17,7 @@
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
 
-- <p align="center">
+- <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin-right:15px"/>
