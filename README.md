@@ -29,7 +29,12 @@
 ```
 
 <p align="center">
-  <img src="assets/hack.gif" alt="hack the universe" width="350"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Galáxia animada" width="300"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Hack animado" width="350"/>
+</p>
+
 
 ✨ Let’s hack the galaxy together! ✨
