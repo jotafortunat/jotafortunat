@@ -1,0 +1,22 @@
+
+name: HyperGalactic Hack Animation
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  animate-hack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Display Galactic Hack
+        run: |
+          echo "🚀 Initiating HyperGalactic Hack Animation..."
+          for i in {1..5}; do
+            echo "█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ $((i*20))%"
+            sleep 0.5
+          done
+          echo "🌌 Hack Complete! Universe Upgraded!"
