@@ -20,12 +20,12 @@
 - <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right:10px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin-right:15px"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/dev.jotafortunat" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40"/>
   </a>
 </p>
 
