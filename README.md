@@ -5,12 +5,14 @@
 
 # 🌌 HYPERGALACTIC README OF @jotafortunat 🌌
 
+<p align="right"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGludWFmMnR6ZzA1cmk3Zm13ejZnNHJ5cjdsYXJ1OXY1dDJ3d2tsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="Hack animado" width="350"/></p>
+
 
 ### 👾 About Me
 - **Handle:** `@jotafortunat`
 - **Interests:** Geek Universe 🌌
 - **Currently Learning:** CyberSecurity 🛡️
-- **Looking To Collab:** Mind-bending projects 🚀    <p align="right"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV3ZndwM3E2dnI2c2Jicnh2b2dwdWEzMWk0c29nNWNkNmwxMGwxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif" alt="Hack animado" width="350"/></p>
+- **Looking To Collab:** Mind-bending projects 🚀    
 - **Contact:** fortunatojp_@hotmail.com
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
