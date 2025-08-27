@@ -36,5 +36,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRzcXVqdDRvMWd2ejJ0dW5mZWYwYmlrOW5hYWRjMnQzY2p3ZTI5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="Hack animado" width="350"/>
 </p>
 
+✨ Vamos hackear a galaxia juntos! ✨
 
 ✨ Let’s hack the galaxy together! ✨
