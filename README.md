@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @jotafortunat
-- 👀 I’m interested in learn more about the geek universe
-- 🌱 I’m currently learning POSTGRESQL
-- 💞️ I’m looking to collaborate on New projects
-- 📫 How to reach me fortunatojp_@hotmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love to surf
+<p align="center">
+  <img src="assets/galaxy.gif" alt="galactic vibes" width="300"/>
+</p>
 
-<!---
-jotafortunat/jotafortunat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🌌 HYPERGALACTIC README OF @jotafortunat 🌌
+
+██████╗ ██╗ ██╗████████╗ █████╗ ████████╗███████╗
+██╔══██╗██║ ██║╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝
+██████╔╝██║ ██║ ██║ ███████║ ██║ █████╗
+██╔═══╝ ██║ ██║ ██║ ██╔══██║ ██║ ██╔══╝
+██║ ╚██████╔╝ ██║ ██║ ██║ ██║ ███████╗
+╚═╝ ╚═════╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚══════╝
+
+
+### 👾 About Me
+- **Handle:** `@jotafortunat`
+- **Interests:** Geek Universe 🌌
+- **Currently Learning:** CyberSecurity 🛡️
+- **Looking To Collab:** Mind-bending projects 🚀
+- **Contact:** fortunatojp_@hotmail.com
+- **Pronouns:** He/Him
+- **Fun Fact:** Surfing waves 🌊 & web 🌐
+
+---
+
+### ⚡ Hack Terminal ASCII
+
+Initiating Galactic Hack...
+████░░░░░░ 15%
+████████░░░ 37%
+█████████████░░ 66%
+█████████████████ 92%
+█████████████████████ 100%
+ACCESS GRANTED 🌠
