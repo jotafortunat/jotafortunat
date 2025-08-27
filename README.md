@@ -17,6 +17,19 @@
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
 
+- <p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right:10px"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/dev.jotafortunat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40"/>
+  </a>
+</p>
+
+
 ---
 
 ### ⚡ Hack Terminal ASCII
