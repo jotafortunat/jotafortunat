@@ -3,7 +3,7 @@
   <img src="assets/galaxy.gif" alt="galactic vibes" width="300"/>
 </p>
 
-# 🌌 HYPERGALACTIC README OF @jotafortunat 🌌
+# 🌌 @jotafortunat 🌌
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGludWFmMnR6ZzA1cmk3Zm13ejZnNHJ5cjdsYXJ1OXY1dDJ3d2tsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="Hack animado" width="350"/></p>
 
