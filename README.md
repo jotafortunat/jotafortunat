@@ -17,6 +17,15 @@
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
 
+- ### 🛠️ Tecnologias e Linguagens que domino:  ###
+- **Python** 🐍 – Desenvolvimento de scripts, automações e aplicações.  
+- **HTML & CSS** 🎨 – Criação de interfaces estruturadas e estilizadas para web.  
+- **C** ⚙️ – Programação de baixo nível e fundamentos de lógica e algoritmos.  
+- **PostgreSQL** 🗄️ – Modelagem e gerenciamento de banco de dados relacionais.  
+- **JavaScript** ⚡ – Desenvolvimento de funcionalidades dinâmicas para aplicações web. 
+
+
+
 - <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
