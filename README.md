@@ -17,7 +17,7 @@
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
 
-
+---
 
 - ### 🛠️ Tecnologias e Linguagens que domino:  ###
 - **Python** 🐍 – Desenvolvimento de scripts, automações e aplicações.  
