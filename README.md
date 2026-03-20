@@ -13,7 +13,7 @@
 - **Interests:** Geek Universe 🌌
 - **Currently Learning:** CyberSecurity 🛡️
 - **Looking To Collab:** Mind-bending projects 🚀    
-- **Contact:** fortunatojp_@hotmail.com
+- **Contact:** dev.jotafortunato@gmail.com
 - **Pronouns:** He/Him
 - **Fun Fact:** Surfing waves 🌊 & web 🌐
 
