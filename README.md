@@ -1,50 +1,63 @@
-
 <p align="center">
-  <img src="assets/galaxy.gif" alt="galactic vibes" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGludWFmMnR6ZzA1cmk3Zm13ejZnNHJ5cjdsYXJ1OXY1dDJ3d2tsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="Hack animado" width="350"/>
 </p>
 
-# 🌌 @jotafortunat 🌌
+<h1 align="center">🌌 João Pedro Fortunato (@jotafortunat) 🌌</h1>
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGludWFmMnR6ZzA1cmk3Zm13ejZnNHJ5cjdsYXJ1OXY1dDJ3d2tsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="Hack animado" width="350"/></p>
-
-
-### 👾 About Me
-- **Handle:** `@jotafortunat`
-- **Interests:** Geek Universe 🌌
-- **Currently Learning:** CyberSecurity 🛡️
-- **Looking To Collab:** Mind-bending projects 🚀    
-- **Contact:** dev.jotafortunato@gmail.com
-- **Pronouns:** He/Him
-- **Fun Fact:** Surfing waves 🌊 & web 🌐
+<p align="center">
+  <strong>Analista de Sistemas | Desenvolvedor de Software | <a href="https://jotafortunato.com.br" target="_blank">jotafortunato.com.br</a></strong>
+</p>
 
 ---
 
-- ### 🛠️ Tecnologias e Linguagens que domino:  ###
-- **Python** 🐍 – Desenvolvimento de scripts, automações e aplicações.  
-- **HTML & CSS** 🎨 – Criação de interfaces estruturadas e estilizadas para web.  
-- **C** ⚙️ – Programação de baixo nível e fundamentos de lógica e algoritmos.  
-- **PostgreSQL** 🗄️ – Modelagem e gerenciamento de banco de dados relacionais.  
-- **JavaScript** ⚡ – Desenvolvimento de funcionalidades dinâmicas para aplicações web. 
+### 👾 About Me
+Combinando a lógica do desenvolvimento, a precisão da análise de dados e um toque do universo Geek. Sou graduando em Sistemas de Informação na Unilasalle e atuo como Analista de TI, com foco em otimização e desenvolvimento.
 
+- **Handle:** `@jotafortunat`
+- **Current Focus:** Construindo o **SupNow!** 📈 (App de Investimentos) e o **Nanny Kids** 👶 (App Mobile). Também atuo fortemente com Automação Corporativa (RPA).
+- **Interests:** Geek Universe 🌌, Desenvolvimento Mobile, Análise de Dados e Hardware.
+- **Currently Learning:** CyberSecurity 🛡️ e aprimorando meu Inglês para carreira internacional 🌍.
+- **Looking To Collab:** Mind-bending projects 🚀 e soluções tecnológicas escaláveis.
+- **Contact:** dev.jotafortunato@gmail.com
+- **Pronouns:** Ele/Dele (He/Him)
+- **Fun Fact:** Surfing waves 🌊, web 🌐 e criando conteúdo tech/geek no meu canal do YouTube (Jota Fortunato) 🎮.
 
+---
 
-- <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin-right:15px"/>
+### 🛠️ Tecnologias e Linguagens que domino
+*O arsenal que utilizo para hackear soluções no dia a dia:*
+
+- **Linguagens:** Python 🐍, JavaScript ⚡, C ⚙️
+- **Web & Mobile:** React Native 📱, Django 🕸️, HTML & CSS 🎨
+- **Dados & Bancos Relacionais:** PostgreSQL 🗄️, SQL, Pandas 🐼, Tableau 📊
+- **Automação:** RPA (Automação de Processos e monitoramento) 🤖
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://jotafortunato.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-jotafortunato.com.br-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-
-  <!-- Instagram -->
+  <a href="https://www.linkedin.com/in/joão-pedro-matos-fortunato-495285249" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.jotafortunato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.jotafortunato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.instagram.com/dev.jotafortunat" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@JotaFortunato" target="_blank">
+     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
 
 ---
 
 ### ⚡ Hack Terminal ASCII
-```
+```text
 > Initiating Galactic Hack...
 > ████░░░░░░ 15%
 > ████████░░░ 37%
@@ -52,14 +65,4 @@
 > █████████████████ 92%
 > █████████████████████ 100%
 > ACCESS GRANTED 🌠
-```
-
-
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRzcXVqdDRvMWd2ejJ0dW5mZWYwYmlrOW5hYWRjMnQzY2p3ZTI5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="Hack animado" width="350"/>
-</p>
-
-✨ Vamos hackear a galaxia juntos! ✨
-
-✨ Let’s hack the galaxy together! ✨
+> Welcome to João's Universe.
