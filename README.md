@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGludWFmMnR6ZzA1cmk3Zm13ejZnNHJ5cjdsYXJ1OXY1dDJ3d2tsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="Hack animado" width="350"/>
 </p>
 
-<h1 align="center">🌌 João Pedro Fortunato (@jotafortunat) 🌌</h1>
+<h1 align="center">🌌 João Pedro Fortunato 🌌</h1>
 
 <p align="center">
   <strong>Analista de Sistemas | Desenvolvedor de Software | <a href="https://jotafortunato.com.br" target="_blank">jotafortunato.com.br</a></strong>
@@ -14,9 +14,9 @@
 Combinando a lógica do desenvolvimento, a precisão da análise de dados e um toque do universo Geek. Sou graduando em Sistemas de Informação na Unilasalle e atuo como Analista de TI, com foco em otimização e desenvolvimento.
 
 - **Handle:** `@jotafortunat`
-- **Current Focus:** Construindo o **SupNow!** 📈 (App de Investimentos) e o **Nanny Kids** 👶 (App Mobile). Também atuo fortemente com Automação Corporativa (RPA).
-- **Interests:** Geek Universe 🌌, Desenvolvimento Mobile, Análise de Dados e Hardware.
-- **Currently Learning:** CyberSecurity 🛡️ e aprimorando meu Inglês para carreira internacional 🌍.
+- **Current Focus:** Construindo o **SupNow!** 📈.
+- **Interests:** Games, Desenvolvimento Mobile, Análise de Dados e Hardware.
+- **Currently Learning:** CyberSecurity 🛡️.
 - **Looking To Collab:** Mind-bending projects 🚀 e soluções tecnológicas escaláveis.
 - **Contact:** dev.jotafortunato@gmail.com
 - **Pronouns:** Ele/Dele (He/Him)
@@ -25,12 +25,10 @@ Combinando a lógica do desenvolvimento, a precisão da análise de dados e um t
 ---
 
 ### 🛠️ Tecnologias e Linguagens que domino
-*O arsenal que utilizo para hackear soluções no dia a dia:*
 
 - **Linguagens:** Python 🐍, JavaScript ⚡, C ⚙️
 - **Web & Mobile:** React Native 📱, Django 🕸️, HTML & CSS 🎨
 - **Dados & Bancos Relacionais:** PostgreSQL 🗄️, SQL, Pandas 🐼, Tableau 📊
-- **Automação:** RPA (Automação de Processos e monitoramento) 🤖
 
 ---
 
@@ -48,9 +46,6 @@ Combinando a lógica do desenvolvimento, a precisão da análise de dados e um t
   </a>
   <a href="https://www.instagram.com/dev.jotafortunat" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@JotaFortunato" target="_blank">
-     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
